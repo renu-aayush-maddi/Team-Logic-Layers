@@ -1,0 +1,99 @@
+Vector Database RAG - Category-wise URL Collection
+📚 AGRICULTURAL STANDARDS & GUIDELINES
+AGMARK Standards Complete Collection
+🔗 https://pravara.in/wp-content/themes/twentyseventeen/essentials/pdf/elearn/AGMARK.pdf
+
+Bharat GAP Operating Manual 2024
+🔗 https://www.nhb.gov.in/pdf/Bharat%20GAP%20Operating%20manual.pdf
+
+National Programme for Organic Production (NPOP) 8th Edition
+🔗 https://agritech.tnau.ac.in/org_farm/pdf/NPOP%208th%20Edition%20.pdf
+
+📚 CROP CULTIVATION GUIDELINES
+ICAR Kharif Agro-Advisories 2025
+🔗 https://icar.org.in/sites/default/files/Circulars/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf
+
+TNAU Crop Production Guide Agriculture 2020
+🔗 https://agritech.tnau.ac.in/pdf/AGRICULTURE.pdf
+
+ICAR Research Publications Database
+🔗 https://epubs.icar.org.in
+
+Open Source Agriculture Repository
+🔗 https://github.com/geezacoleman/OpenSourceAgriculture
+
+📚 PEST & DISEASE MANAGEMENT
+NIPHM IPM Package for Rice
+🔗 https://niphm.gov.in/IPMPackages/Rice.pdf
+
+NIPHM IPM Package for Cotton
+🔗 https://niphm.gov.in/IPMPackages/Cotton.pdf
+
+NIPHM IPM Package for Wheat
+🔗 https://niphm.gov.in/IPMPackages/Wheat.pdf
+
+NIPHM IPM Package for Sugarcane
+🔗 https://niphm.gov.in/IPMPackages/Sugarcane.pdf
+
+OpenAgri Pest & Disease Management Service
+🔗 https://github.com/openagri-eu/pest-and-disease-management
+
+FAO IPM Guidelines & Resources
+🔗 https://www.fao.org/agriculture/crops/thematic-sitemap/theme/pests/ipm/en/
+
+Standard Operating Procedures for IPM
+🔗 https://agritech.tnau.ac.in/crop_protection/pdf/opproc_IPM.pdf
+
+📚 GOVERNMENT SCHEMES & POLICIES
+PM-KISAN Scheme Complete Documentation
+🔗 https://pmkisan.gov.in/Documents/
+
+PM-KISAN Operational Guidelines
+🔗 https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf
+
+PMFBY Operational Guidelines 2023
+🔗 https://pmfby.amnex.co.in/pmfby/pdf/operational_guidelines_pmfby.pdf
+
+Soil Health Card Implementation Guide
+🔗 https://www.aspirationaldistricts.in/wp-content/uploads/2019/05/Implementers-Guide_SHC.pdf
+
+Compendium of Government Schemes & Programmes
+🔗 https://transdev.assam.gov.in/sites/default/files/swf_utility_folder/departments/pndd_medhassu_in_oid_2/menu/document/compendium_of_govt._of_india_schemes_programmes.pdf
+
+PM-RKVY Unified Guidelines 2024
+🔗 https://www.uasbangalore.edu.in/wp-content/uploads/2024/11/PM-RKVY-Guidelines-as-on-14.11.2024.pdf
+
+📚 MARKET STANDARDS & QUALITY
+FSSAI Maximum Residue Limits (MRL) for Pesticides 2024
+🔗 https://fssai.gov.in/upload/advisories/2024/04/6616351c775b5Order%20MRL%20Spices%20and%20culinary%20herbs.pdf
+
+BIS Agricultural Standards Collection
+🔗 https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/pow_new/Pow/download_pow_pdf_dept/61
+
+General Grading and Marking Rules 1988 (AGMARK)
+🔗 https://agmarkonline.dmi.gov.in/writereaddata/DMI/files/15364166015b93db5992875General%20Grading%20and%20Marking%20Rules%201988%20(as%20amended%20upto%202009).pdf
+
+e-NAM Operational Guidelines
+🔗 https://enam.gov.in/web/docs/namguidelines.pdf
+
+📚 SPECIALIZED AGRICULTURAL KNOWLEDGE
+FAO Data Repository
+🔗 https://www.fao.org/countryprofiles/data-sources/en/
+
+AGRICOLA Database (USDA NAL)
+🔗 https://www.nal.usda.gov
+
+farmOS Open Source Farm Management
+🔗 https://farmos.org
+
+Agricultural Statistics at a Glance 2023
+🔗 https://desagri.gov.in/wp-content/uploads/2024/09/Agricultural-Statistics-at-a-Glance-2023.pdf
+
+ICAR Handbook of Agriculture
+🔗 https://icar.org.in/en/node/2811
+
+
+
+
+AGRIMARK
+https://pravara.in/wp-content/themes/twentyseventeen/essentials/pdf/elearn/AGMARK.pdf
